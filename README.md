@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Sahil and I'm a javascript developer, from Mumbai, India <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1ee-1f1f3.svg" width="17" /><br><br>- 🔭 As a fresher, I am actively seeking opportunities in frontend development.<br>- 📚 I'm currently learning React js  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="20"/> and Node js <img src="https://w7.pngwing.com/pngs/450/470/png-transparent-node-js-angularjs-react-javascript-npm-node-js-angle-text-trademark-thumbnail.png" width="20"/>.<br>- ⚡ In my free time, I love to play video games🎮 and watch horror movies👻.</p>
+<p align="left">I'm Sahil and I'm a javascript developer, from Mumbai, India <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1ee-1f1f3.svg" width="17" /><br><br>- 🔭 As a fresher, I am actively seeking opportunities in frontend development.<br>- 📚 I'm currently learning React js  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="20"/> and Node js <img src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" width="20"/>.<br>- ⚡ In my free time, I love to play video games🎮 and watch horror movies👻.</p>
 
 ###
 
