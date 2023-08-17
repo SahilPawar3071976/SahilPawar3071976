@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Sahil and I'm a javascript developer, from Mumbai, India <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1ee-1f1f3.svg" width="17" /><br><br>- 🔭 I’m working as Frontend developer<br>- 📚 I'm currently learning React js and Node js<br>- ⚡ In my free time I love to play games and watch horror moves</p>
+<p align="left">I'm Sahil and I'm a javascript developer, from Mumbai, India <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1ee-1f1f3.svg" width="17" /><br><br>- 🔭 I’m working as Frontend developer<br>- 📚 I'm currently learning React js  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="20"/> and Node js <img src="https://w7.pngwing.com/pngs/450/470/png-transparent-node-js-angularjs-react-javascript-npm-node-js-angle-text-trademark-thumbnail.png" width="20"/><br>- ⚡ In my free time I love to play games and watch horror moves</p>
 
 ###
 
